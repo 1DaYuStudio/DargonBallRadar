@@ -1,1 +1,1 @@
-I used an ESP-S3 and a 2.8-inch circular screen to make a Dragon Ball radar.
+I use Espressif ESP-IDF and LVGL to develop a Dragon Ball radar with an ESP32-S3 and a 2.8-inch circular screen.
